@@ -1,33 +1,66 @@
 # C++ MCQs Quiz System
 
-This is a C++ based quiz system developed as part of my Structured Programming learning.
+A console-based MCQs Quiz System developed in C++ as part of my programming learning journey.
 
-## 🔹 Features
-- Multiple Choice Questions (MCQs)
-- Automatic Score Calculation
-- Grading System
-- Negative Marking
+## 🚀 Features
+
+* Multiple Choice Questions (MCQs)
+* Automatic Score Calculation
+* Negative Marking
+* Grade Evaluation
+* Interactive Console Interface
 
 ## 💻 Technologies Used
-- C++
+
+* C++
+* Object-Oriented Programming (OOP)
+
+## 📈 Project Evolution
+
+### Version 1
+
+Developed using **Structured Programming** concepts:
+
+* Functions
+* Arrays
+* Loops
+* Conditional Statements
+
+### Version 2 (Latest)
+
+The project was redesigned using **Object-Oriented Programming (OOP)** concepts:
+
+* Classes & Objects
+* Constructor
+* Encapsulation
+* Member Functions
+* Improved Code Organization
 
 ## ▶️ How to Run
-1. Compile the code using a C++ compiler
-2. Run the executable file
-3. Answer the questions and get your score
 
-## 🎯 Purpose
-This project helped me understand basic programming concepts such as:
-- Conditional statements
-- Loops
-- Functions
-- User input handling
+1. Compile the source code using any C++ compiler.
+2. Run the executable.
+3. Start the quiz and answer the questions.
+4. View your score and grade.
+
+## 🎯 Learning Outcome
+
+This project helped me strengthen my understanding of:
+
+* Structured Programming
+* Object-Oriented Programming
+* Problem Solving
+* User Input Handling
+* Logic Building
 
 ## 🚀 Future Improvements
-- Add timer-based quiz
-- Store results
-- Improve UI
+
+* Timer-based Quiz
+* Save Quiz Results
+* Random Question Generation
+* File Handling
+* Better User Interface
 
 ---
 
-👩‍💻 This is my first step towards becoming a Data Scientist, and I am excited to continue learning and building more projects.
+⭐ This project represents my learning journey from Structured Programming to Object-Oriented Programming and is another step toward my goal of becoming a Data Scientist.
